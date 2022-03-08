@@ -1,0 +1,28 @@
+{
+  "name": "binance-grid-app",
+  "version": "1.0.0",
+  "description": "A bot which tracks the price of bitcoin. It buys it when the price goes down a certain threshold and sells it when price goes up to a certain threshold",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kintama48/binance-grid-app.git"
+  },
+  "keywords": [
+    "grid",
+    "bot",
+    "binance",
+    "grid"
+  ],
+  "author": "kintama#8473",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kintama48/binance-grid-app/issues"
+  },
+  "homepage": "https://github.com/kintama48/binance-grid-app#readme",
+  "dependencies": {
+    "node-binance-api": "^0.13.1"
+  }
+}
