@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/kintama48/binance-grid-app#readme",
   "dependencies": {
+    "dotenv": "^16.0.0",
     "node-binance-api": "^0.13.1"
   }
 }
